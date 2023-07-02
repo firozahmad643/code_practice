@@ -1,0 +1,27 @@
+.contact{
+    margin:30px auto 0px ;
+    font-size: 40px;
+    width:3.8cm;
+    font-weight:bold ;
+    
+}
+.innerdiv{
+    border: 1px solid black;
+    width:80%;
+    margin: 15px auto 0px;
+    box-sizing: border-box;
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+}
+.div1,.div2, .div3{
+   
+    padding: 7px;
+    box-sizing: border-box;
+    border-bottom: 1px solid black;
+    font-size: 20px;
+    font-weight: 500;
+    word-wrap: break-word;
+}
+.div3{
+    border: none;
+}
+

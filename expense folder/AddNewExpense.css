@@ -1,0 +1,35 @@
+#row_1
+{
+    background-color: rgb(67, 228, 172);
+    margin-bottom: 40px;
+}
+#row_1 .col-6
+{
+    margin:20px 0px;
+    color:white;
+    font-size: 20px;
+    font-weight: bold;
+  
+}
+.col-4,.col-2
+{
+    margin:20px 0px;
+  
+  
+}
+#row_4col_first_children
+{
+    background-color: rgb(64, 134, 246);
+    color: white;
+    font-weight: bold;
+    border-radius: 10px;
+    margin-left: 90px;
+}
+#row_5col_first_children
+{
+    background-color: rgb(245, 75, 81);
+    color: white;
+    font-weight: bold;
+    border-radius: 10px;
+    
+}
